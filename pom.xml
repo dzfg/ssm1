@@ -12,7 +12,7 @@
 		<!-- 配置项目的编码格式 -->
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
 		<!-- 配置spring框架的统一版本管理 -->
-		<spring.version>4.3.9.RELEASE</spring.version>
+		<spring.version>5.2.1.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
